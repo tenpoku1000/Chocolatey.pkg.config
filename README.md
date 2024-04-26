@@ -6,7 +6,6 @@ Chocolatey パッケージマネージャの pkg.config XML 設定ファイル
 ## 作業環境
 
 * Windows 11
-* 64 ビット版 Windows 10
 
 ## 補足説明
 
